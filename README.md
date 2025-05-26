@@ -2,3 +2,4 @@
 # yangiqorgon-IM
 # ixtisoslashtirilgan-maktab
 # ixtisoslashtirilgan-maktab
+# muzaffar
