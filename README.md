@@ -1,1 +1,2 @@
 # ixtisoslashtirilgan-maktab
+# yangiqorgon-IM
